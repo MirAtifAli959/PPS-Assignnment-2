@@ -1,10 +1,10 @@
 # PPS Assignment-2  
-**Name**: Mir Atif Ali
-**ROLL NO**: 160926748205
+**Name**: Mir Atif Ali  
+**ROLL NO**: 160926748205  
 **Class**: CSM-D  
-**Course**: Programming for Problem Solving
-**Institute**: Lords Institute of Engineering and Technology
-**Branch**: CSM-A | 1-B.E | 1-Semester(LR26)
+**Course**: Programming for Problem Solving  
+**Institute**: Lords Institute of Engineering and Technology  
+**Branch**: CSM-A | 1-B.E | 1-Semester(LR26)  
 **Unit**: 2
 # About
 C solutions for Assignment-2.. solved and accepted on hackerRank.
